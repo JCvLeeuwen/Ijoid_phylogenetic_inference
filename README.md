@@ -184,4 +184,4 @@ Usage:
 python visualizer.py
 ```
 
-Output: PDF and PNG files with colored tips and posterior probabilities 
+Output: PDF and PNG files with color-coded leaves and posterior probabilities 
